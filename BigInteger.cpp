@@ -1,5 +1,5 @@
 /*
- * @author Sanket Agarwal (IIT ISM DHANBAD) 
+ * @author Rohit Kumar (IIT ISM DHANBAD) 
  * Big Integer library in C++, single file implementation.
  */
 #include <iostream>
